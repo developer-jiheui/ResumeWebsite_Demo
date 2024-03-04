@@ -1,17 +1,20 @@
 #####Static 웹사이트 입니다 #####
 ![웹사이트 이미지](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/ee603bf3-5b67-43f0-991d-f39803314cc0)
 
-1. 깃허브 repository 주소 복사
-![github-repo](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/3fbfeff9-29af-40a9-90c5-e48ea1631222)
-2. 웹사이트를 저장할 폴더생성
-![mkdir](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/f93fcae2-91c5-43fc-9a13-640cb3d607e5)
-3. visual studio code에 github clone 클릭
-![vsCode](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/a2e1ae53-25f6-4db2-9c36-b6230c9ed2e9)
-4. index.html에서 live server켜시면 바로 볼수 있습니다
-![index](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/3455e64f-a469-48db-8ae6-7ef1bd53a485)
 
+
+### 복사하는 법###
+
+1. 깃허브 repository 주소 복사<br>
+![github-repo](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/3fbfeff9-29af-40a9-90c5-e48ea1631222)
+2. 웹사이트를 저장할 폴더생성<br>
+![mkdir](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/f93fcae2-91c5-43fc-9a13-640cb3d607e5)
+3. visual studio code에 github clone 클릭<br>
+![vsCode](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/a2e1ae53-25f6-4db2-9c36-b6230c9ed2e9)
+4. index.html에서 live server켜시면 바로 볼수 있습니다<br>
 ![alt text](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/40a736f9-7e69-43b4-a2b8-374ee1badf33)
--한국어로 주석을 달아뒀으니 보시고 수정하시면 됩니다
+
+-한국어로 주석을 달아뒀으니 보시고 수정하시면 됩니다<br>
 ![alt text](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/cefaeead-8275-408f-81d4-b0168a00cf44)
 
 
