@@ -1,5 +1,5 @@
 #####Static 웹사이트 입니다 #####
-![alt text](http://assets/images/website.png)
+![웹사이트 이미지](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/ee603bf3-5b67-43f0-991d-f39803314cc0)
 
 - 한국어로 주석을 달아뒀으니 보시고 수정하시면 됩니다
 - visual studio code로 여시고 index.html에서 live server켜시면 바로 볼수 있습니다
