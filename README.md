@@ -3,7 +3,7 @@
 
 
 
-### 복사하는 법###
+#복사하는 법
 
 1. 깃허브 repository 주소 복사<br>
 ![github-repo](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/3fbfeff9-29af-40a9-90c5-e48ea1631222)
@@ -18,7 +18,7 @@
 ![alt text](https://github.com/developer-jiheui/ResumeWebsite_Demo/assets/56495213/cefaeead-8275-408f-81d4-b0168a00cf44)
 
 
-* 본인 깃허브에 올리는법
+# 본인 깃허브에 올리는법
 1. repository를 하나 만들고 그 주소를 복사합니다.
 2. visual studio code 터미널에 들어가셔서
     - git remote add (리모트이름) (복사한 주소) //리모트 생성
